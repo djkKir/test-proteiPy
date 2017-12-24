@@ -1,5 +1,3 @@
-
-
 import unittest
 
 from testForvard import TestPosition

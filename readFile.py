@@ -1,3 +1,4 @@
+
 def getCsvData(csvPath):
     rows = []
     csvData = open(csvPath)
